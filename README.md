@@ -1,5 +1,9 @@
 # Hi! I'm Spottij 👋
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdmbTZ0cTM4aWgzcGp0Y2VrYjVtN2h3YjJuZ2k4ZDY1dmVvMDd5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SnVZO1N0Wo6u4/giphy.gif" width="400" />
+</p>
+
 I am a Computer Science / Math & Mechanics student passionate about systems programming, network protocol development, and CLI utility optimization. I closely work within the Linux environment (Fedora).
 
 ---
