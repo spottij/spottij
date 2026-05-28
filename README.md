@@ -18,13 +18,4 @@ I am a Computer Science / Math & Mechanics student passionate about systems prog
 * **IMAP Mail Tool** — A backend script for parsing and fetching mail headers, supporting secure authentication via third-party IMAP servers.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=spottij&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="spottij's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spottij&layout=compact&theme=dark&hide=html,css" alt="Top Langs" height="150" />
-</p>
-
----
 📫 **Contact:** Connect with me via GitHub Issues or Telegram.
