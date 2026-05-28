@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi! I'm Spottij 👋
 
-<!--
-**spottij/spottij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science / Math & Mechanics student passionate about systems programming, network protocol development, and CLI utility optimization. I closely work within the Linux environment (Fedora).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+* **Programming Languages:** Python, Java, Scala
+* **Networking & Protocols:** Custom implementations (SNTP server, caching DNS RFC-1035, IMAP mail parser)
+* **Tools & OS:** Git, GitHub, Fedora Linux (`dnf5`), Bash
+
+---
+
+### 🚀 Featured Projects
+* **DNS-CACHE** — A caching DNS server built strictly according to RFC 1035, featuring autonomous request processing from a local cache.
+* **DiskUsage CLI** — A cross-platform console utility designed for fast disk space analysis and directory size benchmarking.
+* **SNTP-Server** — A lightweight custom Python-based Simple Network Time Protocol server handling NTP requests.
+* **IMAP Mail Tool** — A backend script for parsing and fetching mail headers, supporting secure authentication via third-party IMAP servers.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=spottij&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="spottij's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spottij&layout=compact&theme=dark&hide=html,css" alt="Top Langs" height="150" />
+</p>
+
+---
+📫 **Contact:** Connect with me via GitHub Issues or Telegram.
